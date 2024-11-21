@@ -7,7 +7,7 @@ I’m a passionate learner and problem solver, currently pursuing a Master's in 
 
 ## 👨‍💻 Software Development Projects:  
 - **Basic HTML CSS Edits**  
-  - [Video Background using HTML CSS](https://github.com/joshmadakor1/Algorithms-Practice)  
+  - [Video Background using HTML CSS](https://github.com/nikhilk08695/HtmlCssBasic/tree/main)  
 
 ---
 
