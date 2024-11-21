@@ -32,8 +32,10 @@ I’m a passionate learner and problem solver, currently pursuing a Master's in 
 ---
 
 ## 🤳 Connect with me:  
-[<img align="left" alt="Nikhil Kollipara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Nikhil Kollipara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+<a href="https://www.linkedin.com/in/mr-kollipara-86977b321" target="_blank">
+  <img align="left" alt="Nikhil Kollipara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/nikhil.kollipara/profilecard/?igsh=YzR4amVpdDZ3czA1" target="_blank">
+  <img align="left" alt="Nikhil Kollipara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-[linkedin]: https://linkedin.com/in/joshmadakor  
-[instagram]: https://www.instagram.com/joshmadakor/  
